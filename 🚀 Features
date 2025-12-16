@@ -1,0 +1,18 @@
+👨‍💼 Admin
+Create a new customer account
+Modify existing customer details
+Delete a customer account
+View all customers
+Transfer money from one account to another
+View entire bank transaction history
+View overall bank statistics
+👤 Customer
+Deposit money
+Withdraw money
+Transfer money to another account
+View personal transaction history
+🔧 Common Utilities
+Encrypted password storage (simple Caesar cipher)
+Hidden password input (masked with *)
+Timestamp logging for transactions
+File-based data persistence
