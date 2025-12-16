@@ -11,11 +11,13 @@ View all customers
 Transfer money from one account to another
 View entire bank transaction history
 View overall bank statistics
+
 👤 Customer
 Deposit money
 Withdraw money
 Transfer money to another account
 View personal transaction history
+
 🔧 Common Utilities
 Encrypted password storage (simple Caesar cipher)
 Hidden password input (masked with *)
